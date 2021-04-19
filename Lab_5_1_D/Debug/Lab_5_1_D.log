@@ -1,0 +1,38 @@
+﻿  FuzzyNumber.cpp
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.h(13,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.h(35,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(8,13): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(11,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(12,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(13,55): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(14,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.cpp(7,73): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.cpp(21,65): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.cpp(29,58): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.cpp(37,67): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.cpp(46,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Lab_5_1_D.cpp
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.h(13,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.h(35,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(8,13): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(11,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(12,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(13,55): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\FuzzyNumber.h(14,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Lab_5_1_D.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Lab_5_1_D.cpp(14,26): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  MyDerivedException.cpp
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\MyDerivedException.cpp(4,1): warning C5043: "MyDerivedException::What": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\MyDerivedException.h(10): message : см. объявление "MyDerivedException::What"
+  MyException.cpp
+  Triad.cpp
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.h(13,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.h(35,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.cpp(7,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_D\Lab_5_1_D\Triad.cpp(79,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода...
+  Lab_5_1_D.vcxproj -> C:\Users\maksd\source\repos\Lab_5_1_D\Debug\Lab_5_1_D.exe
